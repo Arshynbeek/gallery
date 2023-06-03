@@ -69,7 +69,7 @@ p {
     padding: 2%;
     max-width: 1000px;
     width: 100vw;
-    height: 100vh;
+    height: 50vw;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
